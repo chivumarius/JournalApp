@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028526768794",
+    "project_id": "journaljavaapp",
+    "storage_bucket": "journaljavaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028526768794:android:7c466fd6ad868194711523",
+        "android_client_info": {
+          "package_name": "com.chivumarius.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028526768794-paa2gt16mel7sm6qptqg8otkn0ha1eog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9VyufDaquH9BAIvqqrEGIuh7NjCVx31k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028526768794-paa2gt16mel7sm6qptqg8otkn0ha1eog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
